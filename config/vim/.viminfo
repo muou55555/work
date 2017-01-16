@@ -1,0 +1,1748 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~Msle0~/\<evaluation\>
+
+# 上个 替换 Search 图案：
+~Msle0&\<print\>
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:wq
+:x
+:w
+:q
+:qa
+:Q
+:W
+:.ll
+:h
+:q!
+:call Autopep8(" %")
+:call Autopep8("%")
+:Autopep8(%)
+:call Autopep8(" --aggressivei &lt")
+:call Autopep8(" --aggressivei &lt; %&gt")
+:call Autopep8(" --aggressive")
+:call Autopep8(" --in-place --aggressive")
+:call Autopep8(" --aggressive %")
+:call Autopep8(" --range 1 5")
+:Autopep8 %
+:Autopep8 --aggressive %
+:Autopep8 --aggressive
+:Autopep8 --in-place
+:Autopep8 --in-place --rggressive
+:autopep8
+:Autopep8 --in-palce --aggressive
+:Autopep8
+:cs show
+:cs kill 1
+:cs
+:ts sin
+:ta sin
+:r !autopep8 -i --aggressive %
+:wq!
+:Wq
+:YcmDiags
+:ts
+:copen
+:silent make %
+:setlocal makeprg=python\ -u
+:cwindow
+:cclose
+:make %
+:make
+:python\ -u
+:call RunPython()
+:RunPython()
+:RunPython
+:'<,'>q
+:source ~/.vimrc
+:PluginInstall
+:help syntastic
+:Flake8()
+:Flake8
+:Flask8
+:flake8
+:call Flake8()
+:call Flak
+:YcmCompleter GoToDefinitionElseDeclaration
+:,gl
+:g1
+:,g1
+:,g
+:,
+:\g
+:g
+:YcmToggleLogs
+:YcmDebugInfo
+:YcmCompleter
+:YcmRestartServer
+:BundleInstall
+:wqa
+:!ctags test.*
+:ctags test.py
+:sh
+:python test.py
+:scriptnames
+:scriptsnames
+:scriptsname
+:set rtp
+:ta jiffies_before
+:set nu
+:set nonu
+:cs f t jiffies_before
+:cs f t jiffies
+:%s#:.*$##g
+
+# 查找字符串 历史记录 (从新到旧)：
+? \<evaluation\>
+? \<eval_correct\>
+? \<fill_feed_dict\>
+? \<do_eval\>
+? \<accuracy\>
+?/run_tra
+?/filewrite
+?/tf.train.
+?/merge
+?/filewrit
+? \<summary_writer\>
+? \<summary\>
+? \<duration\>
+?/graph
+?/self.session
+?/def_
+?/run2
+? \<conv_net\>
+?/def_g
+? \<wc1\>
+? \<global_variables_initializer\>
+?/run1
+? \<conv_net2\>
+?/pred
+? \<conv_net1\>
+?/data_set
+? \<optimizer\>
+? \<placeholder_inputs\>
+? \<train_samples\>
+? \<inference\>
+? \<as_default\>
+? \<def_graph\>
+? \<Session\>
+?/conv_net
+? \<data_sets\>
+?/run
+? \<merge_all\>
+? \<train_labels\>
+?/training1
+?/cost
+? \<training\>
+?/con_net
+? \<Network\>
+?/feed
+?/_inputs
+?/fill_feed
+?/one_
+?/conv2d
+? \<training_iters\>
+?/shape
+?/keep_prob
+? \<keep_prob\>
+?/ke
+?/keep
+?/drop
+?/dropout
+?/soft
+? \<mnist\>
+? \<n_input\>
+? \<maxpool2d\>
+?/maxpool
+?/tf.Session
+? \<run_training\>
+?/next
+?/one_hot
+?/one
+? \<data_set\>
+?/next_
+?/softmax
+?/self.loss
+? \<loss\>
+?/mnist.
+?/int32
+?/argmax
+? \<batch_size\>
+?/num_class
+?/class
+? \<dropout\>
+? \<run\>
+? \<max_steps\>
+?/step
+?/session
+? \<train_op\>
+? \<train_writer\>
+?/merge_all
+? \<learning_rate\>
+?/mnist
+? \<conv2d\>
+?/reshape
+?/inf
+?/infl
+? \<influence\>
+?/acc
+?/accu
+? \<accuary\>
+?/model
+?/top
+?/accuracy
+? \<train\>
+? \<scalar\>
+?/train.ada
+?/input
+? \<nn_layer\>
+? \<variable_summaries\>
+? \<histogram\>
+?/histo
+? \<display_step\>
+?/summary
+? \<merged\>
+?/all
+? \<add_summary\>
+?/filewri
+?/sess
+?/128
+?/glo
+?/gradients
+?/gradi
+?/infer
+?/saver
+?/ckpt
+?/ck
+?/del
+?/input_data
+? \<statusline\>
+?/placeh
+? \<next_batch\>
+?/cross
+?/fake
+? \<labels_feed\>
+? \<labels_placeholder\>
+?/loss
+? \<weight_variable\>
+?/trunc
+?/histog
+?/pre_
+?/write
+?/image
+?/y_
+?/train
+?/test
+? \<image_shaped_input\>
+?/init
+?/max
+? \<bias_variable\>
+?/status
+? \<log_dir\>
+?/autopep
+? \<dtypes\>
+?/read_da
+?/root
+?/cscope
+?/python
+?/colors
+?/color
+? \<exeFile\>
+?/theme
+?/F5
+? \<map\>
+? \<Flake8\>
+?/nerdtree
+?/synt
+? \<leader\>
+?/plugin inde
+? \<print\>
+? \<YcmCompleter\>
+?/let
+?/syntax
+? \<TestClass\>
+?/py
+?/unive
+?/ppa
+?/lan
+?/nocom
+?/arm
+?/main(
+?/popen
+?/run(
+?/network
+?/fork
+?/backspace
+?/factory
+?/timer
+?/main
+?/main.cpp
+?/jiffies_befor
+?/mainloop
+?/jiffies
+?/jiffies_before
+?/orig
+? :.*$
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	tf_tensorboard
+""1	LINE	0
+	
+"2	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	
+"5	CHAR	0
+	if __name__ == '__main__':
+	  #Todo Somethings
+	
+"6	CHAR	0
+	def do_eval(sess,
+	            eval_correct,
+	            images_placeholder,
+	            labels_placeholder,
+	            data_set):
+	  """Runs one evaluation against the full epoch of data.
+	
+	  Args:
+	    sess: The session in which the model has been trained.
+	    eval_correct: The Tensor that returns the number of correct predictions.
+	    images_placeholder: The images placeholder.
+	    labels_placeholder: The labels placeholder.
+	    data_set: The set of images and labels to evaluate, from
+	      input_data.read_data_sets().
+	  """
+	  # And run one epoch of eval.
+	  true_count = 0  # Counts the number of correct predictions.
+	  steps_per_epoch = data_set.num_examples // FLAGS.batch_size
+	  num_examples = steps_per_epoch * FLAGS.batch_size
+	  for step in xrange(steps_per_epoch):
+	    feed_dict = fill_feed_dict(data_set,
+	                               images_placeholder,
+	                               labels_placeholder,
+	                               )
+	    true_count += sess.run(eval_correct, feed_dict=feed_dict)
+	  precision = float(true_count) / num_examples
+	  print('  Num examples: %d  Num correct: %d  Precision @ 1: %0.04f' %
+	        (num_examples, true_count, precision))
+	
+	
+"7	BLOCK	0
+	#
+	#
+	#
+	#
+	#
+	#
+"8	LINE	0
+	            print('y:', y, y.get_shape())
+"9	LINE	0
+	            print('pred:', pred, pred.get_shape())
+"-	CHAR	0
+	tf_tensorboard
+
+# 文件标记:
+'0  14  3  ~/muou/tf_study/.gitignore
+'1  1  0  ~/muou/tf_study/.gitignore
+'2  1  0  ~/muou/tf_study/NERD_tree_1
+'3  3  13  ~/muou/tf_study/.gitignore
+'4  2  13  ~/muou/tf_study/.gitignore
+'5  113  26  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+'6  41  6  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+'7  200  396  ~/muou/tf_study/mydemo/fully_connected_feed.py
+'8  67  0  ~/muou/tf_study/mydemo/mnist.py
+'9  276  0  ~/.vimrc
+
+# 跳转列表 (从新到旧):
+-'  14  3  ~/muou/tf_study/.gitignore
+-'  1  0  ~/muou/tf_study/.gitignore
+-'  3  13  ~/muou/tf_study/.gitignore
+-'  1  0  ~/muou/tf_study/NERD_tree_1
+-'  12  0  ~/muou/tf_study/NERD_tree_1
+-'  2  13  ~/muou/tf_study/.gitignore
+-'  113  26  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  121  1  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  54  56  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  41  6  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  27  4  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  119  0  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  112  0  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  43  0  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  38  4  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  56  7  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  31  0  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  23  4  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  1  0  ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+-'  200  396  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  160  31  ~/muou/tf_study/mydemo/mnist.py
+-'  152  25  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  92  14  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  151  60  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  213  0  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  169  36  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  35  0  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  167  32  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  133  69  ~/muou/tf_study/mydemo/mnist_with_summaries.py
+-'  128  17  ~/muou/tf_study/mydemo/mnist_with_summaries.py
+-'  114  32  ~/muou/tf_study/mydemo/mnist_with_summaries.py
+-'  123  30  ~/muou/tf_study/mydemo/fully_connected_feed.py
+-'  292  16  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  290  16  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  289  16  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  386  2  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  330  2  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  22  0  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  263  0  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  115  13  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  153  13  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  208  11  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  216  11  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  288  39  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  280  15  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  287  16  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  285  16  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  284  16  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  151  32  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  117  8  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  118  8  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  129  8  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  122  8  ~/muou/tf_study/mydemo/cnn_mnist.py
+-'  210  32  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  1165  0  ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/client/session.py
+-'  203  31  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  433  20  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  326  13  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  434  21  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  208  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  435  30  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  240  22  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  392  10  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  428  8  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  470  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  468  22  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  469  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  149  4  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  412  23  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  390  8  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  370  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  406  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  76  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  202  24  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  269  21  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  389  22  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  597  41  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  414  11  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  327  12  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  557  22  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  254  16  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  287  24  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  496  53  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  318  31  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  317  79  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  314  68  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  311  39  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  310  24  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  298  35  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  297  83  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  107  16  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  1  0  ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+-'  67  0  ~/muou/tf_study/mydemo/mnist.py
+-'  24  6  ~/muou/tf_study/mydemo/mnist.py
+-'  126  35  ~/muou/tf_study/mydemo/mnist.py
+-'  123  39  ~/muou/tf_study/mydemo/mnist.py
+-'  122  15  ~/muou/tf_study/mydemo/mnist.py
+-'  1  0  ~/muou/tf_study/NERD_tree_1
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/muou/tf_study/.gitignore
+	"	14	3
+	^	15	8
+	.	15	7
+	+	1	5
+	+	2	13
+	+	3	13
+	+	6	5
+	+	11	1
+	+	12	0
+	+	1	0
+	+	14	3
+	+	15	7
+
+> ~/muou/tf_study/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/muou/tf_study/mydemo/net_project/cnn-mnist-tensorflow/cnn-mnist.py
+	"	113	26
+	^	113	37
+	.	113	36
+	+	9	0
+	+	121	0
+	+	24	0
+	+	25	0
+	+	27	0
+	+	9	0
+	+	9	0
+	+	33	0
+	+	41	0
+	+	42	0
+	+	114	0
+	+	115	0
+	+	116	0
+	+	117	0
+	+	117	55
+	+	119	0
+	+	120	0
+	+	119	0
+	+	120	0
+	+	119	0
+	+	29	0
+	+	114	0
+	+	115	4
+	+	116	4
+	+	115	0
+	+	116	0
+	+	117	0
+	+	116	0
+	+	117	66
+	+	119	0
+	+	117	66
+	+	122	50
+	+	123	0
+	+	122	0
+	+	113	37
+	+	112	16
+	+	114	10
+	+	112	15
+	+	113	35
+	+	114	9
+	+	112	16
+	+	113	36
+
+> ~/muou/tf_study/mydemo/mnist_softmax.py
+	"	9	0
+	^	28	0
+
+> ~/muou/tf_study/mydemo/NERD_tree_1
+	"	29	10
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network.py
+	"	210	32
+	^	204	9
+	.	203	50
+	+	612	0
+	+	606	0
+	+	612	32
+	+	604	18
+	+	609	18
+	+	611	0
+	+	612	0
+	+	616	7
+	+	202	8
+	+	203	8
+	+	205	9
+	+	232	8
+	+	264	0
+	+	286	0
+	+	309	0
+	+	288	12
+	+	287	12
+	+	233	24
+	+	287	29
+	+	306	12
+	+	291	0
+	+	302	0
+	+	287	16
+	+	289	27
+	+	301	24
+	+	294	28
+	+	296	28
+	+	295	40
+	+	296	55
+	+	303	42
+	+	301	102
+	+	287	12
+	+	327	0
+	+	326	0
+	+	327	0
+	+	287	12
+	+	327	0
+	+	325	0
+	+	368	11
+	+	616	7
+	+	202	8
+	+	203	8
+	+	435	0
+	+	436	0
+	+	431	0
+	+	430	0
+	+	435	0
+	+	285	14
+	+	305	14
+	+	371	2
+	+	385	0
+	+	406	0
+	+	371	0
+	+	406	0
+	+	410	0
+	+	308	12
+	+	408	0
+	+	409	0
+	+	417	24
+	+	418	36
+	+	419	51
+	+	425	38
+	+	424	93
+	+	427	10
+	+	427	20
+	+	428	0
+	+	427	8
+	+	424	20
+	+	454	29
+	+	464	22
+	+	464	28
+	+	465	0
+	+	466	20
+	+	467	20
+	+	468	20
+	+	471	20
+	+	472	20
+	+	427	8
+	+	483	0
+	+	487	0
+	+	431	8
+	+	368	0
+	+	367	0
+	+	208	24
+	+	210	0
+	+	207	0
+	+	407	10
+	+	432	10
+	+	202	22
+	+	203	8
+	+	202	0
+	+	206	22
+	+	434	20
+	+	204	34
+	+	203	8
+	+	209	0
+	+	209	0
+	+	210	0
+	+	204	8
+	+	203	50
+
+> ~/muou/tf_study/mydemo/fully_connected_feed.py
+	"	200	396
+	^	78	3
+	.	201	0
+	+	251	28
+	+	47	42
+	+	34	0
+	+	227	14
+	+	34	0
+	+	79	0
+	+	78	2
+	+	80	0
+	+	79	65
+	+	200	106
+	+	200	129
+	+	200	130
+	+	200	186
+	+	200	247
+	+	200	307
+	+	200	359
+	+	200	396
+	+	201	0
+
+> ~/muou/tf_study/mydemo/mnist_with_summaries.py
+	"	133	69
+	^	180	1
+	.	180	0
+	+	201	68
+	+	203	68
+	+	181	0
+	+	181	13
+	+	181	14
+	+	181	80
+	+	181	82
+	+	179	66
+	+	180	0
+	+	181	0
+	+	179	12
+	+	180	0
+
+> ~/muou/tf_study/mydemo/mnist.py
+	"	160	31
+	^	136	21
+	.	136	20
+	+	136	20
+
+> ~/muou/tf_study/mydemo/input_data.py
+	"	23	0
+
+> ~/muou/tf_study/mydemo/profile_demo.py
+	"	30	4
+	^	22	17
+
+> ~/muou/tf_study/mydemo/my_mnist_softmax.py
+	"	107	0
+	^	89	52
+	.	31	17
+	+	90	0
+	+	31	17
+
+> ~/muou/tf_study/mydemo/cnn_mnist.py
+	"	321	0
+	^	243	45
+	.	243	44
+	+	190	12
+	+	169	39
+	+	92	0
+	+	90	0
+	+	92	0
+	+	91	23
+	+	68	59
+	+	92	0
+	+	324	39
+	+	269	47
+	+	96	37
+	+	111	0
+	+	269	54
+	+	96	31
+	+	150	65
+	+	169	37
+	+	190	41
+	+	325	0
+	+	25	0
+	+	22	0
+	+	26	0
+	+	23	0
+	+	22	2
+	+	24	2
+	+	31	2
+	+	33	2
+	+	166	0
+	+	166	0
+	+	122	0
+	+	121	8
+	+	122	8
+	+	128	8
+	+	129	0
+	+	254	0
+	+	253	8
+	+	254	8
+	+	253	8
+	+	121	8
+	+	122	8
+	+	129	0
+	+	121	32
+	+	128	8
+	+	129	0
+	+	121	0
+	+	119	0
+	+	128	8
+	+	129	0
+	+	120	0
+	+	119	8
+	+	120	34
+	+	211	13
+	+	201	16
+	+	202	16
+	+	203	16
+	+	204	16
+	+	205	12
+	+	206	16
+	+	208	8
+	+	209	8
+	+	279	0
+	+	278	14
+	+	276	14
+	+	277	14
+	+	286	16
+	+	284	16
+	+	284	0
+	+	285	16
+	+	287	0
+	+	288	16
+	+	289	16
+	+	290	16
+	+	262	14
+	+	280	14
+	+	288	43
+	+	22	0
+	+	24	0
+	+	22	0
+	+	124	0
+	+	123	8
+	+	124	78
+	+	289	31
+	+	290	31
+	+	125	24
+	+	124	8
+	+	125	55
+	+	152	8
+	+	151	0
+	+	171	0
+	+	195	0
+	+	200	0
+	+	257	24
+	+	298	0
+	+	97	0
+	+	219	0
+	+	218	0
+	+	219	20
+	+	298	20
+	+	302	38
+	+	223	25
+	+	243	44
+
+> ~/muou/tf_study/mydemo/__Tag_List__
+	"	73	4
+	.	77	0
+	+	543	0
+	+	310	0
+	+	77	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/ops/array_ops.py
+	"	1480	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/ops/nn_ops.py
+	"	1382	14
+	.	1421	0
+	+	1421	19
+	+	1421	0
+	+	1421	10
+	+	1421	0
+	+	1421	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/ops/math_ops.py
+	"	1236	4
+
+> ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/examples/3_NeuralNetworks/convolutional_network_bak.py
+	"	192	29
+	^	192	64
+	.	192	0
+	+	192	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/client/session.py
+	"	1165	0
+
+> ~/muou/tf_study/mydemo/net_project/TensorFlow-Examples/NERD_tree_1
+	"	12	10
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /usr/share/vim/vim74/doc/help.txt
+	"	95	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/ops/gen_nn_ops.py
+	"	1448	26
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py
+	"	425	6
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/examples/tutorials/mnist/mnist.py
+	"	97	21
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/training/saver.py
+	"	806	6
+
+> ~/.vimrc
+	"	276	0
+	^	17	1
+	.	276	0
+	+	329	43
+	+	322	33
+	+	325	0
+	+	323	31
+	+	324	31
+	+	322	26
+	+	323	26
+	+	324	26
+	+	325	26
+	+	326	26
+	+	327	26
+	+	328	23
+	+	329	23
+	+	41	0
+	+	40	0
+	+	375	23
+	+	374	0
+	+	374	17
+	+	374	0
+	+	374	0
+	+	374	0
+	+	375	0
+	+	374	91
+	+	374	118
+	+	374	161
+	+	374	0
+	+	375	23
+	+	375	25
+	+	375	24
+	+	375	23
+	+	375	22
+	+	375	0
+	+	374	75
+	+	374	0
+	+	374	0
+	+	374	4
+	+	374	4
+	+	374	4
+	+	374	4
+	+	374	4
+	+	374	4
+	+	374	4
+	+	374	1
+	+	374	0
+	+	373	0
+	+	372	43
+	+	351	0
+	+	372	0
+	+	336	0
+	+	350	7
+	+	374	0
+	+	348	6
+	+	351	1
+	+	359	69
+	+	69	35
+	+	70	0
+	+	68	24
+	+	69	25
+	+	359	2
+	+	359	19
+	+	348	7
+	+	359	0
+	+	69	0
+	+	348	7
+	+	360	0
+	+	359	2
+	+	360	21
+	+	348	6
+	+	361	0
+	+	360	2
+	+	359	66
+	+	350	19
+	+	18	0
+	+	19	0
+	+	18	0
+	+	19	0
+	+	18	0
+	+	18	69
+	+	276	0
+	+	18	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	276	14
+	+	18	0
+	+	19	0
+	+	20	0
+	+	276	69
+	+	18	0
+	+	19	0
+	+	20	0
+	+	276	0
+	+	21	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	9	28
+	+	17	0
+	+	276	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/ops/gen_array_ops.py
+	"	1416	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/core/protobuf/config_pb2.py
+	"	683	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/summary/summary.py
+	"	123	4
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py
+	"	148	10
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/mnist.py
+	"	106	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/NERD_tree_1
+	"	21	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/mnist_softmax.py
+	"	90	0
+	^	89	49
+	.	107	7
+	+	94	18
+	+	96	7
+	+	97	7
+	+	99	7
+	+	92	4
+	+	63	3
+	+	62	2
+	+	98	29
+	+	88	19
+	+	89	49
+	+	94	13
+	+	108	46
+	+	88	19
+	+	89	49
+	+	108	0
+	+	97	0
+	+	97	20
+	+	84	0
+	+	82	3
+	+	84	12
+	+	85	37
+	+	86	14
+	+	87	0
+	+	83	3
+	+	95	7
+	+	93	5
+	+	84	3
+	+	85	3
+	+	86	1
+	+	82	2
+	+	83	2
+	+	97	38
+	+	35	15
+	+	36	24
+	+	37	15
+	+	31	17
+	+	37	39
+	+	41	43
+	+	41	46
+	+	41	37
+	+	54	7
+	+	51	16
+	+	53	8
+	+	51	5
+	+	53	3
+	+	42	18
+	+	43	15
+	+	53	0
+	+	53	15
+	+	53	15
+	+	53	2
+	+	42	20
+	+	53	15
+	+	53	2
+	+	53	15
+	+	53	17
+	+	53	12
+	+	53	0
+	+	41	0
+	+	38	0
+	+	35	6
+	+	53	7
+	+	45	11
+	+	35	6
+	+	45	16
+	+	46	21
+	+	47	14
+	+	53	0
+	+	52	11
+	+	51	19
+	+	56	4
+	+	103	0
+	+	51	0
+	+	56	0
+	+	52	15
+	+	45	27
+	+	47	28
+	+	50	1
+	+	55	4
+	+	103	9
+	+	88	17
+	+	89	48
+	+	97	8
+	+	98	8
+	+	103	9
+	+	39	0
+	+	38	8
+	+	39	43
+	+	103	26
+	+	98	9
+	+	94	11
+	+	88	18
+	+	89	50
+	+	106	9
+	+	107	9
+	+	88	18
+	+	89	0
+	+	88	0
+	+	106	7
+	+	107	7
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/__init__.py
+	"	39	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/tf_version_script.lds
+	"	3	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/tensorflow.bzl
+	"	126	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/fully_connected_feed.py
+	"	204	16
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/python/training/optimizer.py
+	"	260	41
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/python/ops/logging_ops.py
+	"	33	4
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/python/ops/math_ops.py
+	"	1313	4
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/__init__.py
+	"	2	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/BUILD
+	"	111	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/contrib/learn/python/learn/datasets/mnist.py
+	"	24	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/input_data.py
+	"	9	46
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/contrib/learn/python/learn/datasets/base.py
+	"	193	4
+
+> ~/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/JediHTTP/vendor/argparse/argparse.py
+	"	1533	6
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/python/framework/dtypes.py
+	"	1	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/python/framework/__init__.py
+	"	1	0
+
+> ~/muou/tf_study/tf_src/tensorflow/tensorflow/examples/tutorials/mnist/NERD_tree_1
+	"	8	0
+	.	1	0
+	+	1	0
+
+> ~/.bashrc
+	"	120	0
+	^	121	0
+	.	122	0
+	+	118	20
+	+	60	0
+	+	60	0
+	+	61	0
+	+	80	0
+	+	81	4
+	+	122	0
+
+> ~/anaconda2/lib/python2.7/site-packages/tensorflow/models/image/mnist/convolutional.py
+	"	12	0
+
+> ~/muou/tf_study/profile_demo.py
+	"	29	0
+	^	10	18
+	.	10	17
+	+	1047	0
+	+	1048	0
+	+	1046	0
+	+	1038	0
+	+	1039	0
+	+	1040	0
+	+	1010	0
+	+	1027	0
+	+	1011	0
+	+	1026	0
+	+	1012	0
+	+	1013	0
+	+	1011	0
+	+	929	0
+	+	999	0
+	+	992	0
+	+	9	0
+	+	990	0
+	+	991	0
+	+	960	0
+	+	930	0
+	+	9	0
+	+	839	0
+	+	872	0
+	+	842	0
+	+	9	0
+	+	9	0
+	+	840	0
+	+	748	0
+	+	810	0
+	+	9	0
+	+	810	0
+	+	811	0
+	+	750	0
+	+	9	0
+	+	445	0
+	+	749	0
+	+	750	0
+	+	9	0
+	+	9	0
+	+	751	0
+	+	445	0
+	+	9	0
+	+	9	0
+	+	446	0
+	+	692	0
+	+	662	0
+	+	632	0
+	+	602	0
+	+	572	0
+	+	542	0
+	+	512	0
+	+	482	0
+	+	452	0
+	+	9	0
+	+	445	0
+	+	37	0
+	+	392	0
+	+	362	0
+	+	332	0
+	+	89	0
+	+	272	0
+	+	242	0
+	+	212	0
+	+	182	0
+	+	152	0
+	+	122	0
+	+	92	0
+	+	53	0
+	+	78	0
+	+	71	0
+	+	63	0
+	+	65	0
+	+	9	0
+	+	54	0
+	+	59	0
+	+	56	0
+	+	54	0
+	+	50	0
+	+	38	0
+	+	32	0
+	+	9	0
+	+	34	0
+	+	39	0
+	+	40	0
+	+	9	0
+	+	13	0
+	+	1	0
+	+	4	0
+	+	3	0
+	+	5	22
+	+	42	1
+	+	42	0
+	+	12	10
+	+	14	0
+	+	44	9
+	+	1	0
+	+	1	0
+	+	46	0
+	+	10	17
+
+> ~/muou/test.py
+	"	13	0
+	^	27	22
+	.	28	0
+	+	12	0
+	+	1	0
+	+	19	9
+	+	1	0
+	+	19	10
+	+	14	0
+	+	1	16
+	+	1	16
+	+	14	12
+	+	18	0
+	+	14	13
+	+	11	16
+	+	13	0
+	+	15	6
+	+	18	0
+	+	15	5
+	+	4	21
+	+	5	20
+	+	6	29
+	+	9	7
+	+	6	29
+	+	9	0
+	+	7	16
+	+	8	23
+	+	18	0
+	+	16	29
+	+	17	8
+	+	18	0
+	+	4	23
+	+	5	22
+	+	7	18
+	+	16	0
+	+	14	14
+	+	16	5
+	+	2	17
+	+	31	0
+	+	25	23
+	+	22	0
+	+	23	0
+	+	25	0
+	+	31	0
+	+	31	0
+	+	19	0
+	+	2	17
+	+	20	24
+	+	22	17
+	+	23	21
+	+	25	10
+	+	31	0
+	+	31	0
+	+	31	0
+	+	31	0
+	+	31	0
+	+	31	0
+	+	25	11
+	+	31	0
+	+	25	10
+	+	26	0
+	+	26	0
+	+	25	0
+	+	23	0
+	+	15	5
+	+	23	0
+	+	25	0
+	+	15	0
+	+	14	0
+	+	25	0
+	+	14	0
+	+	15	0
+	+	25	0
+	+	23	0
+	+	23	0
+	+	25	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	31	0
+	+	27	0
+	+	30	0
+	+	30	0
+	+	30	0
+	+	29	0
+	+	1	0
+	+	18	0
+	+	27	0
+	+	26	0
+	+	27	0
+	+	29	0
+	+	29	0
+	+	29	0
+	+	29	0
+	+	28	0
+	+	28	0
+
+> ~/muou/testtf.py
+	"	14	0
+	^	14	0
+	.	14	0
+	+	44	0
+	+	39	0
+	+	35	0
+	+	34	0
+	+	35	0
+	+	25	0
+	+	26	8
+	+	16	0
+	+	5	9
+	+	5	0
+	+	10	0
+	+	5	0
+	+	17	9
+	+	4	0
+	+	10	11
+	+	11	30
+	+	12	22
+	+	13	9
+	+	11	33
+	+	13	23
+	+	17	9
+	+	3	22
+	+	4	0
+	+	15	0
+	+	14	0
+
+> ~/muou/test.c
+	"	19	0
+	^	20	4
+	.	20	3
+	+	1	0
+	+	28	0
+	+	19	1
+	+	3	13
+	+	19	6
+	+	4	0
+	+	20	7
+	+	7	1
+	+	8	14
+	+	25	1
+	+	11	8
+	+	24	0
+	+	25	0
+	+	24	0
+	+	24	0
+	+	26	0
+	+	25	0
+	+	23	1
+	+	23	3
+	+	23	0
+	+	19	0
+	+	23	0
+	+	22	1
+	+	21	0
+	+	20	3
+	a	1	0
+	m	1	0
+
+> ~/muou/tf_study/autopep8
+	"	2	0
+	.	2	0
+	+	2	0
+
+> ~/anaconda2/envs/root-2.7/lib/python2.7/site-packages/tensorflow/python/ops/constant_op.py
+	"	95	0
+
+> ~/muou/__Tag_List__
+	"	5	4
+	.	6	0
+	+	233	0
+	+	232	0
+	+	227	0
+	+	222	0
+	+	217	0
+	+	205	0
+	+	193	0
+	+	181	0
+	+	169	0
+	+	133	0
+	+	132	0
+	+	127	0
+	+	85	0
+	+	43	0
+	+	6	0
+
+> ~/muou/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/anaconda2/lib/python2.7/site-packages/numpy/core/numerictypes.py
+	"	91	27
+
+> ~/anaconda2/pkgs/numpy-1.11.1-py27_0/lib/python2.7/site-packages/numpy/core/numerictypes.py
+	"	91	27
+
+> ~/.vim/bundle/YouCompleteMe/third_party/ycmd/examples/.ycm_extra_conf.py
+	"	26	9
+
+> ~/muou/autopep8
+	"	2	0
+	.	2	0
+	+	3	0
+	+	2	0
+
+> /usr/share/vim/vim74/plugin/autopep8.vim
+	"	118	62
+
+> ~/.vim/bundle/[Vundle] Installer
+	"	8	0
+	.	1	0
+	+	14	0
+	+	8	0
+	+	1	0
+
+> ~/.vim/bundle/syntastic/doc/syntastic.txt
+	"	125	0
+
+> ~/muou/[Vundle] Installer
+	"	7	0
+	.	1	0
+	+	14	0
+	+	7	0
+	+	1	0
+
+> ~/.vim/bundle/vim-flake8/autoload/flake8.vim
+	"	1	0
+
+> /usr/share/vim/vim74/doc/options.txt
+	"	24	13
+
+> ~/muou/cscope.out
+	"	3	0
+
+> ~/anaconda2/lib/python2.7/site-packages/numpy/__init__.py
+	"	1	0
+
+> ~/anaconda2/pkgs/libxml2-2.9.2-0/share/doc/libxml2-2.9.2/html/reader1.c
+	"	46	5
+
+> ~/.vim/bundle/a.py
+	"	7	0
+	.	7	0
+	+	7	0
+
+> /tmp/ycmd_39994_stderr_45l4fubz.log
+	"	7	175
+
+> /tmp/ycmd_50880_stderr_mmpoxe0x.log
+	"	1	0
+
+> /tmp/ycm_xag5zzrw.log
+	"	1	30
+
+> ~/.vim/bundle/YouCompleteMe/README.md
+	"	80	0
+
+> ~/anaconda2/[Vundle] Installer
+	"	7	0
+	.	1	0
+	+	7	0
+	+	1	0
+
+> ~/workspace/beagle_bone/app/spidev_test.c
+	"	60	19
+	.	60	0
+	+	60	0
+
+> ~/workspace/beagle_bone/app/spidev_test
+	"	1	0
+
+> ~/workspace/beagle_bone/app/Makefile
+	"	2	32
+	^	2	33
+	.	2	32
+	+	2	32
+
+> ~/.vim/bundle/YouCompleteMe/third_party/ycmd/.gitmodules
+	"	15	1
+	^	24	0
+	.	24	0
+	+	3	51
+	+	7	44
+	+	11	43
+	+	15	54
+	+	19	44
+	+	23	50
+	+	30	43
+	+	34	41
+	+	41	57
+	+	32	0
+	+	32	0
+	+	32	36
+	+	32	0
+	+	32	0
+	+	30	6
+	+	31	0
+	+	8	0
+	+	4	0
+	+	12	0
+	+	16	0
+	+	20	0
+	+	24	0
+
+> ~/.vim/bundle/YouCompleteMe/.gitmodules
+	"	6	1
+	.	7	0
+	+	3	50
+	+	6	43
+	+	7	0
+
+> ~/.vim/bundle/YouCompleteMe/gitmodules.bak
+	"	6	38
+
+> ~/.vim/bundle/YouCompleteMe/.git/config
+	"	13	7
+
+> /etc/grub.d/00_header
+	"	1	0
+
+> /etc/grub.d/README
+	"	3	0
+
+> /etc/apt/sources.list
+	"	56	50
+
+> ~/__Tag_List__
+	"	1	0
+	.	1	0
+	+	2	0
+	+	1	0
+
+> ~/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/test.c
+	"	8	0
+	^	1	0
+	.	5	0
+	+	9	0
+	+	6	19
+	+	5	0
+
+> ~/workspace/kvm/code/kvm-kmod/srcu.c
+	"	24	1
+
+> ~/workspace/beagle_bone/u-boot/build.sh
+	"	4	0
+
+> ~/workspace/beagle_bone/kernel/build.sh
+	"	5	0
+	.	2	0
+	+	2	0
+
+> ~/.install/cross_tools/arm_v5te_gcc-4.6-linaro_eglibc_eabi/bin/armv5-linux-gcc
+	"	91	0
+
+> ~/.colorgccrc
+	"	24	25
+	^	1	40
+	.	2	0
+	+	45	42
+	+	46	0
+	+	73	42
+	+	74	0
+	+	23	27
+	+	24	0
+	+	1	39
+	+	2	0
+
+> ~/workspace/hdzb/project/test.c
+	"	6	18
+	^	6	19
+	.	6	18
+	+	9	0
+	+	6	18
+
+> ~/workspace/hdzb/project/concentrator/Makefile
+	"	3	0
+	.	3	0
+	+	2	0
+	+	3	0
+
+> ~/workspace/hdzb/project/concentrator_new/Makefile
+	"	1	0
+
+> ~/workspace/hdzb/project/concentrator/src/main.cpp
+	"	517	0
+	.	448	0
+	+	448	0

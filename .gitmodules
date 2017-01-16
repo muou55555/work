@@ -1,0 +1,3 @@
+[submodule "mydemo/net_project/TensorFlow-Examples"]
+	path = mydemo/net_project/TensorFlow-Examples
+	url = git@github.com:aymericdamien/TensorFlow-Examples.git
