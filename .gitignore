@@ -1,0 +1,14 @@
+tf_src
+tf_tensorboard
+mnist_data_bak
+mnist_data
+tensorboard
+.*.swp
+*.pyc
+*.bak
+*.o
+~*
+*~
+mydemo/log_cnn/
+tags
+cscope.*
